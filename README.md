@@ -18,3 +18,4 @@ https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
   5. Good discussion thread: https://math.stackexchange.com/questions/23596/why-is-the-eigenvector-of-a-covariance-matrix-equal-to-a-principal-component
   6. https://medium.com/@jonathan_hui/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491 why SVD over Eigendecomposition
   7. Some more stuff on eigenvectors: https://pathmind.com/wiki/eigenvector
+  8. Technical tutorial: https://www.cc.gatech.edu/~lsong/teaching/CX4240spring16/pca_schlens.pdf
